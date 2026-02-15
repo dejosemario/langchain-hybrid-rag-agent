@@ -1,0 +1,25 @@
+Company Information
+===================
+
+Company Name: TechVentures Nigeria Ltd
+Founded: 2020
+Location: Lagos, Nigeria
+
+About Us:
+TechVentures Nigeria is a leading technology company specializing in AI solutions,
+software development, and digital transformation services. We help businesses
+leverage cutting-edge technology to solve complex problems.
+
+Services:
+- Custom Software Development
+- AI and Machine Learning Solutions
+- Cloud Infrastructure Management
+- Digital Transformation Consulting
+- Mobile App Development
+
+Team Size: 50+ employees
+Industries Served: Finance, Healthcare, Education, E-commerce
+
+Contact:
+Email: info@techventures.ng
+Phone: +234-800-990-1239
